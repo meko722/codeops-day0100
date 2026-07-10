@@ -4,39 +4,49 @@
 
 \## 1. What is the difference between Git and GitHub?
 
-Git is a version control system used to track changes in files. GitHub is a cloud platform used to host Git repositories and collaborate with others.
+
+
+Git is a distributed version control system that tracks changes in files and source code. GitHub is a cloud-based platform that hosts Git repositories, making it easy to store projects online and collaborate with others.
 
 
 
 \## 2. What is the purpose of the terminal?
 
-The terminal allows users to interact with the operating system using commands.
+
+
+The terminal is a command-line interface that allows users to interact with the operating system, execute commands, manage files, run programs, and use development tools like Git.
 
 
 
 \## 3. What does git add do?
 
-It stages changes so they are ready to be committed.
+
+
+The `git add` command stages new or modified files so they are included in the next commit.
 
 
 
 \## 4. What is the purpose of git commit?
 
-It saves a snapshot of the staged changes in the Git repository.
+
+
+The `git commit` command saves the staged changes as a snapshot in the Git repository with a descriptive message.
 
 
 
-\## 5. Write the daily Git workflow.
+\## 5. Write the daily Git workflow in the correct order.
+
+
 
 1\. git pull
 
-2\. Make changes
+2\. Make changes to the project
 
 3\. git status
 
 4\. git add .
 
-5\. git commit -m "message"
+5\. git commit -m "Commit message"
 
 6\. git push
 

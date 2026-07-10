@@ -6,5 +6,3 @@ Student Name: Kalkidan
 
 Date: 2026-07-10
 
-This project contains the Day 1 CodeOps practical exercises.
-
